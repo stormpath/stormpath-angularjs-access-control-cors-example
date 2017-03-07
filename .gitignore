@@ -3,6 +3,7 @@ logs/*
 dist/
 node_modules/
 bower_components/
+target/
 tmp
 .tmp/
 .DS_Store
